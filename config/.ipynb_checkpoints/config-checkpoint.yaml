@@ -1,0 +1,23 @@
+database:
+  host: "192.168.2.21"
+  user: "root"
+  pass: "root"
+  port: "3310"
+  
+databasems:
+  host: "eptestdb.database.windows.net"
+  user: "sysadmin"
+  pass: "thebestGman272$"
+  port: "1433"  
+    
+mongo_db:
+  MONGODB_CONN_STR: "mongodb+srv://epena:thebest72@workshop-bakery.qjtg0wr.mongodb.net/?retryWrites=true&w=majority"
+    
+cloud_storage:  
+  GCP_CONC_BUCKET: "gcp-consultas-sql-375300-81b743e61949.json"
+    
+azure_storage:  
+  AZURE_CONN_STR: "BlobEndpoint=https://adlstestep.blob.core.windows.net/;QueueEndpoint=https://adlstestep.queue.core.windows.net/;FileEndpoint=https://adlstestep.file.core.windows.net/;TableEndpoint=https://adlstestep.table.core.windows.net/;SharedAccessSignature=sv=2021-12-02&ss=bfqt&srt=sco&sp=rwdlacupyx&se=2024-12-31T10:08:03Z&st=2023-03-23T01:08:03Z&spr=https,http&sig=EqfcVOEhJWw2A5dfiXzkWnldeQPk2Y3FiePELkAM0lo%3D"
+
+
+

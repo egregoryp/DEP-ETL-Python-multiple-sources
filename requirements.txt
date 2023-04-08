@@ -1,0 +1,17 @@
+jupyterlab
+psycopg2-binary
+pymongo
+azure-storage-blob
+sqlalchemy 
+mysqlclient
+cloud-sql-python-connector["pymysql"] SQLAlchemy
+Flask
+fastapi uvicorn[standard]
+pip install fastapi
+google-cloud-storage
+google-cloud-bigquery
+db-dtypes
+pandasql
+dask
+flask_cors
+flask_sqlalchemy
